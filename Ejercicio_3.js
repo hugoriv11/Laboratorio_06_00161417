@@ -8,7 +8,7 @@ var tipo = (array) => {
         if(tyype === Number){
             numbr += 1;
         }
-        if(tyype === ""){
+        if(tyype === String){
             stri += 1;
         }
     }
